@@ -39,10 +39,10 @@ alleles in the offspring. This makes recombination one of the drivers
 of the evolution of genetic diversity in populations.
 
 The distribution of crossing-overs in a population of gametes is not
-homogeneous along a chromosome : some genomic regions /recombine/ more
+homogeneous along a chromosome : some genomic regions _recombine_ more
 than others, meaning that the probability that they are involved in a
 crossover event is higher. This probability is measured in terms of
-their /recombination rate/ wich is expressed in Morgans (expected
+their _recombination rate_ wich is expressed in Morgans (expected
 number of crossovers) per base (unit of physicical distance along a
 DNA molecule) or more usually in centiMorgans (hundredth of Morgans)
 per megabase (millions of base pairs). Knowing the distribution of
@@ -64,4 +64,4 @@ is substantial heritability to the number of crossovers per
 meiosis. We were able to discover a few genomic regions that harbour
 mutations associated with this genetic variability.
 
-[Variation of recombination rate in Sheep]({{< ref page="/publication/petit-variation-2017" >}})
+[Petit et al. (2017), _Genetics_]({{< ref "/publication/petit-variation-2017" >}})
