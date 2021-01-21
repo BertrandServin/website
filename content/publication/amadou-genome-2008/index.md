@@ -1,0 +1,14 @@
+---
+title: "Genome sequence of the beta-rhizobium Cupriavidus taiwanensis and comparative genomics of rhizobia."
+date: 2008-01-01
+publishDate: 2020-06-04T14:15:26.576597Z
+authors: ["Claire Amadou", "Geraldine Pascal", "Sophie Mangenot", "Michelle Glew", "Cyril Bontemps", "Delphine Capela", "Sébastien Carrère", "Stéphane Cruveiller", "Carole Dossat", "Aurélie Lajus", "Marta Marchetti", "Véréna Poinsot", "Zoé Rouy", "Bertrand Servin", "Maged Saad", "Chantal Schenowitz", "Valérie Barbe", "Jacques Batut", "Claudine Médigue", "Catherine Masson-Boivin"]
+publication_types: ["2"]
+abstract: "We report the first complete genome sequence of a beta-proteobacterial nitrogen-fixing symbiont of legumes, Cupriavidus taiwanensis LMG19424. The genome consists of two chromosomes of size 3.42 Mb and 2.50 Mb, and a large symbiotic plasmid of 0.56 Mb. The C. taiwanensis genome displays an unexpected high similarity with the genome of the saprophytic bacterium C. eutrophus H16, despite being 0.94 Mb smaller. Both organisms harbor two chromosomes with large regions of synteny interspersed by specific regions. In contrast, the two species host highly divergent plasmids, with the consequence that C. taiwanensis is symbiotically proficient and less metabolically versatile. Altogether, specific regions in C. taiwanensis compared with C. eutrophus cover 1.02 Mb and are enriched in genes associated with symbiosis or virulence in other bacteria. C. taiwanensis reveals characteristics of a minimal rhizobium, including the most compact (35-kb) symbiotic island (nod and nif) identified so far in any rhizobium. The atypical phylogenetic position of C. taiwanensis allowed insightful comparative genomics of all available rhizobium genomes. We did not find any gene that was both common and specific to all rhizobia, thus suggesting that a unique shared genetic strategy does not support symbiosis of rhizobia with legumes. Instead, phylodistribution analysis of more than 200 Sinorhizobium meliloti known symbiotic genes indicated large and complex variations of their occurrence in rhizobia and non-rhizobia. This led us to devise an in silico method to extract genes preferentially associated with rhizobia. We discuss how the novel genes we have identified may contribute to symbiotic adaptation."
+featured: false
+publication: "*Genome research*"
+tags: ["genome", "molecular sequence data", "phylogeny", "genes", "bacterial", "base sequence", "cupriavidus", "cupriavidus: classification", "cupriavidus: genetics", "fabaceae", "fabaceae: microbiology", "genomics", "nitrogen fixation", "nitrogen fixation: genetics", "proteobacteria", "proteobacteria: genetics", "symbiosis", "symbiosis: genetics"]
+url_pdf: "http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2527706&tool=pmcentrez&rendertype=abstract"
+doi: "10.1101/gr.076448.108"
+---
+
