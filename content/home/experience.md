@@ -28,13 +28,13 @@ experience:
     location: "Toulouse, France"
     date_start: "2021-01-01"
     date_end: ""
-    description: "
-    Leader of the Dynagen Research group
-  
+    description: |-
+        Leader of the Dynagen Research group
+        
         * Modelling
         * Analysis of large scale genetic data
         * Software development
-        "
+
   - title: Research Associate
     company: INRA
     company_url: 'https://genphyse.toulouse.inra.fr'
