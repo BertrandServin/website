@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title = "Senior Researcher"
-  company = "INRAE"
-  company_url = "https://genphyse.toulouse.inra.fr"
-  location = "Toulouse, France"
-  date_start = "2021-01-01"
-  date_end = ""
-  description = """
-  Leader of the Dynagen Research group
+  - title: "Senior Researcher"
+    company: "INRAE"
+    company_url: "https://genphyse.toulouse.inra.fr"
+    location: "Toulouse, France"
+    date_start: "2021-01-01"
+    date_end: ""
+    description: "
+    Leader of the Dynagen Research group
   
-  * Modelling
-  * Analysis of large scale genetic data
-  * Software development
-  "
+        * Modelling
+        * Analysis of large scale genetic data
+        * Software development
+        "
   - title: Research Associate
     company: INRA
     company_url: 'https://genphyse.toulouse.inra.fr'
