@@ -1,6 +1,6 @@
 ---
 title: Evolution of recombination
-summary: An example of using the in-built project page.
+summary: What are the genetic determinisms of recombination ? How does it evolve ?
 tags:
 - Recombination
 date: "2016-04-27T00:00:00Z"
@@ -64,4 +64,4 @@ is substantial heritability to the number of crossovers per
 meiosis. We were able to discover a few genomic regions that harbour
 mutations associated with this genetic variability.
 
-{{< cite page="/publication/petit-variation-2017/" view="4">}}
+[Variation of recombination rate in Sheep]({{< ref page="/publication/petit-variation-2017" >}})
