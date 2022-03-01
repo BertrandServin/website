@@ -23,28 +23,28 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: "Senior Researcher"
-    company: "INRAE"
+    company: "INRAE, Animal Genetics"
     company_url: "https://genphyse.toulouse.inra.fr"
     location: "Toulouse, France"
     date_start: "2021-01-01"
     date_end: ""
     description: |-
         Leader of the Dynagen Research group
-        
+
         * Modelling
         * Analysis of large scale genetic data
         * Software development
 
   - title: Research Associate
-    company: INRA
+    company: "INRA, Animal Genetics"
     company_url: 'https://genphyse.toulouse.inra.fr'
     location: "Toulouse, France"
     date_start: '2006-09-01'
     date_end: '2020-12-31'
-        
+
   - title: "Post-doctoral Fellow"
-    company: University of Washington
-    company_url: ''
+    company: University of Washington, Department of Statistics, Matthew Stephens Lab
+    company_url: 'https://stephenslab.uchicago.edu'
     location: Seattle, WA, USA
     date_start: '2004-02-01'
     date_end: '2006-08-31'
