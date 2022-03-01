@@ -24,8 +24,8 @@ interests:
 - Statistics
 - Genetics
 - Evolution
-- Python programming
-  
+- Python programming language
+
 education:
   courses:
   - course: PhD in Genetics
@@ -67,5 +67,8 @@ user_groups:
 - Researchers
 ---
 
-Bertrand Servin is a researcher in statistical genetics at the GenPhySE INRAE Lab. His research interests include population genetics, quantitative genetics and genomics. He develops new methods for the analysis of large scale genetic data with a particular interest in understanding the evolution of livestock species.
-
+I am a researcher in statistical genetics at the GenPhySE INRAE
+Lab. My research interests include population genetics, quantitative
+genetics and genomics. My group develops new methods for the analysis
+of large scale genetic data with a particular interest in
+understanding the evolution of livestock species.
