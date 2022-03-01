@@ -13,15 +13,15 @@ tags: []
 categories: []
 date: '2021-08-01'
 lastmod: 2022-03-01T12:25:27+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Decreased genetic correlation of recombination landscapes with increased genetic distance'
+  focal_point: 'Smart'
   preview_only: false
 
 # Projects (optional).
