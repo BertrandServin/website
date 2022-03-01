@@ -50,7 +50,7 @@ recombination rates along the genome is important because it allows to
 understand the constraints on the transmission of alleles from parent
 to offspring. These constraints are fundamental in many applications
 of genetics such as for the interpretation of observed allelic
-associations in populations, the association between genetic 
+associations in populations, the association between genetic
 and phenotypic variation or for predicting the outcome of selection.
 
 Large scale genotyping of families and populations allows to estimate
@@ -63,5 +63,3 @@ thousands of crossovers along the sheep genome and showed that there
 is substantial heritability to the number of crossovers per
 meiosis. We were able to discover a few genomic regions that harbour
 mutations associated with this genetic variability.
-
-[Petit et al. (2017), _Genetics_]({{< ref "/publication/petit-variation-2017" >}})
