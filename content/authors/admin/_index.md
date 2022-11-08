@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/BertrandServin
+  link: https://fediscience.org/@BertrandServin
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.fr/citations?user=W99TfRMAAAAJ
@@ -72,3 +72,5 @@ Lab. My research interests include population genetics, quantitative
 genetics and genomics. My group develops new methods for the analysis
 of large scale genetic data with a particular interest in
 understanding the evolution of livestock species.
+
+<a rel="me" href="https://fediscience.org/@BertrandServin"></a>
