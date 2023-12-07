@@ -6,7 +6,7 @@ title: Comparison of Genomic-Enabled Cross Selection Criteria for the Improvemen
 subtitle: ''
 summary: ''
 authors:
-- given=Alice Danguy, prefix=des, useprefix=true family=Déserts
+- Alice Danguy des Déserts
 - Nicolas Durand
 - Bertrand Servin
 - Ellen Goudemand-Dugué
