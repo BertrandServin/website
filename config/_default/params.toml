@@ -100,7 +100,7 @@ address = {street = "Chemin de Borde-Rouge", city = "Castanet-Tolosan", region =
 coordinates = {latitude = "43.527397", longitude = "1.500482"}
 
 # Directions for visitors to locate you.
-directions = "Building C, Office C205"
+directions = "Building AC, Office AC23"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
